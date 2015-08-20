@@ -1,0 +1,21 @@
+{
+  "name": "nexia-api",
+  "version": "0.0.1",
+  "description": "Api for interfacing with nexia thermostat",
+  "main": "index.js",
+  "keywords": [
+    "thermostat",
+    "nexia",
+    "api",
+    "control"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agrahamg/nexia-thermostat-api"
+  },
+  "author": "Andrew Graham",
+  "license": "MIT",
+  "dependencies": {
+    "request-promise": "^0.4.3"
+  }
+}

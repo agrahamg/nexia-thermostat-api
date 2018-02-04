@@ -58,7 +58,7 @@ NexiaApi = (function () {
             out.cool = cool
         }
         if (hot != undefined) {
-            out.hot = hot
+            out.heat = hot
         }
         var zone = this.getThermostat().zones[0]
 
